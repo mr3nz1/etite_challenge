@@ -35,12 +35,12 @@ This project is an Event Management Platform designed to allow users to browse u
 - [Figma](https://www.figma.com/file/xHGZ5djI9o7hvRltvge7xO/Etite-challenge?type=design&node-id=0-1&mode=design&t=jCg9kgcKFciHR891-0)
 
 
-## To create new events login to the admin dashboard with these credentials
- Use these credentials
- email: test@gmail.com
- password: 123
-
-## To book events register an account and login with your credentials
+## Usage
+- To create a new event login with these credentials
+  email: test@gmail.com
+  password: 123
+  
+- To book events register an account and login with your credentials
 
 ## Setup Instructions
 
