@@ -33,7 +33,7 @@ This project is an Event Management Platform designed to allow users to browse u
 - [The working frontend](https://etite-events-management-challenge-frontend-3d1y.vercel.app/)
 - [Backend](https://etite-events-management-challenge-backend.onrender.com/api/v1/events/all)
 - [Figma](https://www.figma.com/file/xHGZ5djI9o7hvRltvge7xO/Etite-challenge?type=design&node-id=0-1&mode=design&t=jCg9kgcKFciHR891-0)
-
+- [Postman collection & Documentation](https://www.postman.com/navigation-astronaut-72636000/workspace/public-workspace/api/1cac59d2-c43b-48ca-ac35-861c855244b9?action=share&creator=30493043)
 
 ## Usage
 - To create a new event login with these credentials
