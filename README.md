@@ -30,7 +30,7 @@ This project is an Event Management Platform designed to allow users to browse u
   - bcrypt for password hashing
 
 ## You can play around with the app via this link:
-- [The working frontend](https://etite-events-management-challenge-frontend-3d1y.vercel.app/#/users/login)
+- [The working frontend](https://etite-events-management-challenge-frontend-3d1y.vercel.app/)
 - [Backend](https://etite-events-management-challenge-backend.onrender.com/api/v1/events/all)
 - [Figma](https://www.figma.com/file/xHGZ5djI9o7hvRltvge7xO/Etite-challenge?type=design&node-id=0-1&mode=design&t=jCg9kgcKFciHR891-0)
 
